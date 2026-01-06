@@ -1,0 +1,5 @@
+{
+  "interface": "wlan0",
+  "timeout": 3,
+  "max_retries": 3
+}
